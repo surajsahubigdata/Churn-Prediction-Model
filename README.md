@@ -61,7 +61,7 @@ The project uses a Random Forest Classifier, a robust and efficient ensemble met
 
     Inline `code`
 
-    streamlit run app.py
+    streamlit run interface.py
 
 + Open your web browser and navigate to http://localhost:8501
 + Use the sidebar to enter customer information (e.g., credit score, age, balance, etc.).
